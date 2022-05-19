@@ -128,6 +128,8 @@ a {
     padding-top: 1rem;
     padding-bottom: 1rem ;
     border-bottom: #808e9b 1px solid;
+    margin-left: 30px;
+    margin-right: 30px;
     
 }
 
@@ -136,12 +138,13 @@ a {
     color: #0fbcf9;
     font-size: 20px;
     font-weight: bolder;
+    padding: 1rem;
 
 }
 .card-product h4 {
     font-size: 15px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    padding: 0px 0px 5px 0px;
+    padding: 10px 0px 5px 0px;
 }
 
 .card-product span {
@@ -155,7 +158,7 @@ a {
     font-size: 10px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #000;
-    padding: 0px 0px 5px 0px;
+    padding:5px 0px 15px 0px;
 }
 
 

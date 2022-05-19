@@ -1,6 +1,69 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
+li,a, button {
+    font-family: "Lucida Grande";
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+  }
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+    padding: 30px 10%;
+    height: 65px;
+    width: 100%;
+    background-color: rgba(15, 188, 249,1.0);
+  }
+  .logo { 
+    color: white;
+    margin-right: auto;
+    cursor:pointer;
+  }
+  .nav-link{
+    list-style:none;
+  }
+  .nav-link li{
+    display:inline-block;
+    padding: 0px 10px;
+  }
+  .nav-link li a{
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 5px;
+    transition: all 0.3s ease 0s;
+  }
+  .nav-link li a :hover{
+    color: white;
+    background-color: #4bcffa;
+  }
+  a.active,a:hover{ 
+    background-color: #4bcffa; 
+    transition: .5s;
+  }
+  .regist button{
+    padding: 9px 25px;
+    background-color: #4bcffa;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+  }
+  .regist button:hover{
+    background-color: rgba(11, 232, 129,1.0);
+    
+  }
+  body{
+    background-color: white;
+  }
+
+
 
 a {
     text-decoration: none;

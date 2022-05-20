@@ -220,3 +220,61 @@ a {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+.history-wrapper {            
+   margin-top: 2rem;         
+  padding-bottom: 80px;            
+  background-color: #0fbcf9;           
+  
+          
+  }  
+  
+  
+  .heading {            
+  padding-top: 60px;            
+  padding-bottom: 30px;            
+  color: #f9fcfb; 
+  font-size: 30px;           
+  }     
+  
+  .heading h2 {
+    font-weight:bold;
+    text-align: center;
+  }
+  
+  .history2 {
+  float: left;
+  width: 25%;
+  
+  }
+
+  
+  
+  .Sejarah-icon {
+    position: relative;
+    
+  
+  }
+  
+  .Sejarah-icon p {
+    position:absolute;
+    top:auto;
+    
+    width: 100%;
+    color: rgb(20, 17, 17);
+    font-size: 20px;
+
+
+  }
+  
+  .txt-content {
+  width: 90%;            
+  display: inline-block;            
+  padding-top: 60px; 
+  padding-bottom: 30px;           
+  font-size: 15px;            
+  color: #b3aeb5; 
+  }
+  
+  
+ 
+  

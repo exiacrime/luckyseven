@@ -221,3 +221,127 @@ a {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+.history-wrapper {            
+   margin-top: 2rem;         
+  padding-bottom: 80px;           
+  
+          
+  }  
+
+  .histories h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #808e9b;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding: 1rem;
+  }
+  
+  .card-history {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    float: left;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    width: 33.3333%;
+    max-width: 100%;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    height: max-content;
+}
+
+.card-history img {
+  width: 100%;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+}
+
+.card-history p {
+  font-size: 20px;
+  font-weight: bold;
+  color: #808e9b;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: #808e9b 1px solid;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: justify;
+}
+
+.card-history h4 {
+  font-size: 15px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 10px 0px 5px 0px;
+}
+
+p.history-p {
+  font-size: 14px;
+}
+
+.card-history a {
+  font-size: 14px;
+  color: #0fbcf9 ;
+}
+  
+  .heading {            
+  padding-top: 60px;            
+  padding-bottom: 30px;            
+  color: #f9fcfb; 
+  font-size: 30px;           
+  }     
+  
+  .heading h2 {
+    font-weight:bold;
+    text-align: center;
+  }
+  
+  .history2 {
+  float: left;
+  width: 25%;
+  padding: 15px;
+  
+  }
+
+  
+  
+  .Sejarah-icon {
+    position: relative;
+    
+  
+  }
+  
+  .Sejarah-icon p {
+    position:absolute;
+    top:auto;
+    
+    width: 100%;
+    color: rgb(20, 17, 17);
+    font-size: 20px;
+
+
+  }
+  
+  .txt-content {
+  width: 90%;            
+  display: inline-block;            
+  padding-top: 60px; 
+  padding-bottom: 30px;           
+  font-size: 15px;            
+  color: #b3aeb5; 
+  }
+  
+  
+ 
+  

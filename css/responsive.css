@@ -1,0 +1,35 @@
+@media all and (max-width: 1000px) {
+
+  }
+  
+  /* Untuk Smartphone */
+  @media all and (max-width: 670px) {
+    .container {
+      width: 100%;
+    }
+    .main-wrapper {
+      width: 100%;
+    }
+
+    .main-wrapper h1 {
+        font-size: 30px;
+    }
+
+    .main-wrapper span {
+        font-size: 30px;
+    }
+
+    .body-wrapper {
+        padding: 0;
+        width: 100%;
+    }
+
+    .card-product {
+        width: 100%;
+    }
+    
+    .img-product {
+        width: 30%;
+    }
+
+  }

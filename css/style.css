@@ -10,7 +10,6 @@ body {
 }
 .main-wrapper {
     background-image: url(../img/2.jpg);
-    background-blend-mode: color-dodge;
     padding: 180px 0 100px 0;
     background-size: cover;
     color: whitesmoke;
@@ -257,7 +256,7 @@ a {
     text-align: center;
     padding-top: 1rem;
     padding-bottom: 2rem;
-    width: 33.3333%;
+    width: 50%;
     max-width: 100%;
     align-items: center;
     margin: 0 auto;
@@ -270,6 +269,7 @@ a {
   padding: 10px 20px;
   display: flex;
   align-items: center;
+  
 }
 
 .card-history p {
@@ -294,6 +294,7 @@ a {
 
 p.history-p {
   font-size: 14px;
+  font-weight: lighter;
 }
 
 .card-history a {
@@ -361,7 +362,7 @@ p.history-p {
   }
   
   footer{
-    position: fixed;
+   
     bottom: 0;
     
   }
@@ -445,6 +446,11 @@ p.history-p {
     margin: 0;
   }
   
+  .footer-tengah p {
+    font-size:  14px;
+    line-height: 2px;
+    
+  }
   
   .footer-distributed .footer-center i{
     background-color:  #0fbcf9;
@@ -508,6 +514,7 @@ p.history-p {
   
   .footer-distributed .footer-icons{
     margin-top: 25px;
+
   }
   
   .footer-distributed .footer-icons a{
@@ -542,6 +549,6 @@ p.history-p {
     .footer-distributed .footer-center i{
       margin-left: 0;
     }
-  
+    
   }
   

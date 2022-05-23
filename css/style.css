@@ -93,6 +93,11 @@ header {
     background-color: rgba(11, 232, 129,1.0);
     
   }
+
+  .menu-icon {
+    display: none;
+  }
+
   body{
     background-color: white;
   }
@@ -226,7 +231,7 @@ a {
 }
 
 .history-wrapper {            
-   margin-top: 2rem;         
+  margin-top: 2rem;         
   padding-bottom: 80px;    
   margin-bottom: 2rem; 
   height: 100vh;      
@@ -363,7 +368,7 @@ p.history-p {
   }
   
   footer{
-   
+
     bottom: 0;
     
   }
@@ -549,6 +554,10 @@ p.history-p {
   
     .footer-distributed .footer-center i{
       margin-left: 0;
+    }
+
+    .body2 {
+      margin: 40px 0;
     }
     
   }
